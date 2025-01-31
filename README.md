@@ -1,2 +1,2 @@
-# Video-class
-Automated video Genre Classification
+# Video-caption
+Automatic image and video captioning using deep learning technniques
